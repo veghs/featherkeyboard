@@ -38,4 +38,5 @@ It will finish the full chain even if you release the hotkey.
 
 ## Download
 https://github.com/veghs/featherkeyboard/archive/refs/heads/main.zip
+
 ![FKB Main Window](https://i.imgur.com/4detAl5.png)
