@@ -11,3 +11,5 @@ This is a simple key autopresser i made in Python.
 
 Warning!
 When activated, the chain will proceed with every key until it ends, no matter if you already released the hotkey.
+
+Antivirus should allow, no run as administrator needed.
