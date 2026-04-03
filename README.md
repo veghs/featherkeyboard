@@ -6,8 +6,8 @@ Discord: vegh#1821
 aka: laszi_  
 
 ## Overview
-Simple key autopresser made in Python with CustomTkinter.  
-Lets you spam keys using a hotkey with custom sequences.
+Simple, lightweight key autopresser made in Python with CustomTkinter.  
+Lets you spam keys using a hotkey and custom sequences.
 
 ![FKB Key Chain](https://i.imgur.com/fukJ2I8.png)  
 
