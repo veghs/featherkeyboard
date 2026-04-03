@@ -15,7 +15,7 @@ Lets you spam keys using a hotkey and custom sequences.
 - Set your own hotkey  
 - Hold / Toggle mode  
 - Multiple keys in a chain  
-- Custom delay for each key  
+- Custom delay after pressing each key  
 - Remove keys anytime  
 
 ## How it works
