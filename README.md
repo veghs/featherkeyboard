@@ -1,7 +1,7 @@
 **Feather KeyBoard**
 made by laszi
 
-Download: https://github.com/veghs/featherkeyboard/raw/refs/heads/main/fkb.exe
+Download: https://github.com/veghs/featherkeyboard/archive/refs/heads/main.zip
 
 This is a simple key autopresser i made in Python.
 
