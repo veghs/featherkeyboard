@@ -1,5 +1,5 @@
 ## Feather KeyBoard
-author: veghs / DC: vegh#1821 / AKA: laszi_
+Only author: DC: vegh#1821 / AKA: laszi_
 
 ## Overview
 Simple key autopresser made in Python.  
