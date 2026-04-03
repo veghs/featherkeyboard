@@ -1,11 +1,9 @@
-## Feather KeyBoard
+## Feather KeyBoard ![FKB Main Window](https://i.imgur.com/4detAl5.png)
 Only author:
 
 Discord: vegh#1821
 
-aka: laszi_
-
-![FKB Main Window](https://i.imgur.com/4detAl5.png)  
+aka: laszi_  
 
 ## Overview
 Simple key autopresser made in Python with CustomTkinter.  
