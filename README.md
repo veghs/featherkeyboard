@@ -1,4 +1,4 @@
-- Feather KeyBoard made by laszi -
+**Feather KeyBoard made by laszi**
 
 This is a simple key autopresser i made in Python.
 
