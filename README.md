@@ -1,10 +1,12 @@
 ## Feather KeyBoard
 Only author: DC: vegh#1821 / AKA: laszi_
+
 ![FKB Main Window](https://i.imgur.com/4detAl5.png)  
 
 ## Overview
 Simple key autopresser made in Python.  
 Lets you spam keys using a hotkey with custom sequences.
+
 ![FKB Key Chain](https://i.imgur.com/fukJ2I8.png)  
 
 ## Features
@@ -25,6 +27,7 @@ It will finish the full chain even if you release the hotkey.
 4. Set delays  
 5. Choose mode  
 6. Press hotkey
+7. 
 ![FKB Hotkey & Mode](https://i.imgur.com/gGbL033.png)  
 
 ## Notes
