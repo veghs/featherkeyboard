@@ -1,15 +1,32 @@
-**Feather KeyBoard**
-made by laszi
+## Feather KeyBoard
+author: veghs / DC: vegh#1821 / AKA: laszi_
 
-GitHub download: https://github.com/veghs/featherkeyboard/archive/refs/heads/main.zip
+## Overview
+Simple key autopresser made in Python.  
+Lets you spam keys using a hotkey with custom sequences.
 
-This is a simple key autopresser i made in Python.
+## Features
+- Set your own hotkey  
+- Hold / Toggle mode  
+- Multiple keys in a chain  
+- Custom delay for each key  
+- Remove keys anytime  
 
-- It has a hotkey you can set, and hold / toggle mode.
-- You can add multiple keys to the chain, and set their delay after pressed.
-- You can also remove any key from the chain from anyhwere.
+## How it works
+When activated, the key chain runs from start to end.  
+It will finish the full chain even if you release the hotkey.
 
-Warning!
-When activated, the chain will proceed with every key until it ends, no matter if you already released the hotkey.
+## Usage
+1. Open the app  
+2. Set hotkey  
+3. Add keys with `+`  
+4. Set delays  
+5. Choose mode  
+6. Press hotkey  
 
-Antivirus should allow, no run as administrator needed.
+## Notes
+- No admin required  
+- Antivirus should allow it  
+
+## Download
+https://github.com/veghs/featherkeyboard/archive/refs/heads/main.zip
