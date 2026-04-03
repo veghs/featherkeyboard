@@ -1,5 +1,8 @@
 ## Feather KeyBoard
-Only author: DC: vegh#1821 / AKA: laszi_
+Only author:
+
+Discord: vegh#1821
+aka: laszi_
 
 ![FKB Main Window](https://i.imgur.com/4detAl5.png)  
 
