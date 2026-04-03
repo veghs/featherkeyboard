@@ -27,7 +27,7 @@ It will finish the full chain even if you release the hotkey.
 4. Set delays  
 5. Choose mode  
 6. Press hotkey
-7. 
+
 ![FKB Hotkey & Mode](https://i.imgur.com/gGbL033.png)  
 
 ## Notes
