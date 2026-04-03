@@ -1,9 +1,7 @@
 ## Feather KeyBoard
-Only author:
+Only author: laszi_
 
 Discord: vegh#1821
-
-aka: laszi_  
 
 ## Overview
 Simple, lightweight key autopresser made in Python with CustomTkinter.  
